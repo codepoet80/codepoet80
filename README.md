@@ -1,6 +1,6 @@
 ### 🙋 Klaatu barada nikto!
 
-I'm mostly here to keep my retro devices alive, but there's the occassional personal project too. I used to be a real dev, back in the early days of the Internets. Now I'm just a hobbyist. Out-of-date coding practices are either intentional, out of grumpiness (or for backward compatibility), or because I don't know any better.
+I'm mostly here to keep my retro devices alive, but there's the occassional personal project too. I used to be a real dev, back in the early days of the Internets. Now I'm just a hobbyist. Out-of-date coding practices are either intentional, out of grumpiness (or for backward compatibility), or because I don't know any better. None of my code is offered with any sort of warranty or with the intent to profit in any financial way.
 
 - 💬 You can find me on Discord: [codepoet#2015](discordapp.com/users/codepoet#2015)
 - 📰 I read Hacker News daily: [codepoet80](https://news.ycombinator.com/user?id=codepoet80)
