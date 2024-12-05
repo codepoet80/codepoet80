@@ -9,7 +9,7 @@ This is mostly here to keep my retro devices alive, but there's other random per
 Some things that interest me:
 
 - 🕸️ Rebooting the web: [gopher](https://github.com/jankammerath/gophie), [FrogFind](http://frogfind.com/), [Text-Only](https://sjmulder.nl/en/textonly.html)
-- 📲 Dead mobile platform: [webOS](https://www.webosarchive.org) | [Support webOSArchive](https://github.com/sponsors/webOSArchive)
+- 📲 Dead mobile platform: [webOS](https://www.webosarchive.org)
 - 🖱️ Abandoned computing platforms: [Vintage Apple](http://macintoshgarden.org/), [Newton](http://unna.org), [NeXTStep/OpenStep](nextcomputers.org/)
 - 💽 Dead music format: [MiniDisc](https://github.com/gavinbenda/platinum-md)
 - 🍿 Dead movie format: [LaserDisc](https://www.lddb.com/)
