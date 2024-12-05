@@ -1,6 +1,6 @@
 ### 🙋 Klaatu barada nikto!
 
-This is mostly here to keep my retro devices alive, but there's other random personal projects too. I'm not an expert on anything here -- I just tinker. None of my code is offered with any sort of warranty or with the intent to profit -- but its well-known that code is powered by caffeine, so if you find anything useful, feel free to [buy me a coffee](https://www.buymeacoffee.com/codepoet80)!
+This is mostly here to keep my retro devices alive, but there's other random personal projects too. I'm not an expert on anything here -- I just tinker. None of my code is offered with any sort of warranty or with the intent to profit.
 
 - 💬 You can find me on Discord: [codepoet#2015](https://discordapp.com/users/codepoet#2015)
 - 📰 I keep up with Hacker News as: [codepoet80](https://news.ycombinator.com/user?id=codepoet80)
